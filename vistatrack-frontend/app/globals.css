@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  background-color: #0f172a; /* لون الـ Deep Slate الفخم */
+  color: #f8fafc;
+  font-family: sans-serif;
+}
