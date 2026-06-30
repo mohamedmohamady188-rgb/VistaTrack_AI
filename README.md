@@ -30,7 +30,7 @@
 
 **VistaTrack AI** is an enterprise-grade, real-time intelligent surveillance system designed for monitoring industrial camera streams (RTSP) using advanced Computer Vision. The system processes video streams asynchronously, detects personnel, tracks motion, generates live crowd density heatmaps, and dispatches data directly to the frontend via high-performance WebSockets.
 
-### 🚀 Tech Stack & Tools Used
+###  Tech Stack & Tools Used
 
 #### Backend & AI Pipeline
 * **FastAPI:** High-performance, asynchronous Python web framework for core API endpoints and WebSocket routers.
@@ -46,7 +46,7 @@
 
 ---
 
-### 🛠️ How to run the project | كيفية التشغيل
+###  How to run the project | كيفية التشغيل
 
 #### 1. Backend Setup
 ```bash
